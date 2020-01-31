@@ -1,0 +1,4 @@
+*.xml text
+*.jpg binary
+*.jpeg binary
+*.png binary
